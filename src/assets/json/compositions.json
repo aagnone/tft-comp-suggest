@@ -1,0 +1,380 @@
+[
+  {
+    "name": "6 Rebels",
+    "champions": [
+      {
+        "name": "Aurelion Sol",
+        "items": ["Morellonomicon"]
+      },
+      {
+        "name": "Ziggs",
+        "items": []
+      },
+      {
+        "name": "Zed",
+        "items": []
+      },
+      {
+        "name": "Master Yi",
+        "items": []
+      },
+      {
+        "name": "Malphite",
+        "items": []
+      },
+      {
+        "name": "Jinx",
+        "items": ["Infinity Edge", "Trap Claw", "Last Whisper"]
+      },
+      {
+        "name": "Ezreal",
+        "items": []
+      },
+      {
+        "name": "Gangplank",
+        "items": ["Guardian Angel", "Ionic Spark"]
+      }
+    ],
+    "guide": "pew pew pew"
+  },
+  {
+    "name": "Golden Blademasters",
+    "champions": [
+      {
+        "name": "Zed",
+        "items": ["Blade of the Ruined King"]
+      },
+      {
+        "name": "Master Yi",
+        "items": ["Rapid Firecannon", "Guinsoo's Rageblade", "Quicksilver"]
+      },
+      {
+        "name": "Yasuo",
+        "items": ["Guardian Angel"]
+      },
+      {
+        "name": "Shen",
+        "items": []
+      },
+      {
+        "name": "Riven",
+        "items": []
+      },
+      {
+        "name": "Xayah",
+        "items": []
+      },
+      {
+        "name": "Ekko",
+        "items": []
+      } 
+    ],
+    "guide": "Golden fast bois gooooo"
+  },
+  {
+    "name": "The Wall",
+    "champions": [
+      {
+        "name": "Thresh",
+        "items": []
+      },
+      {
+        "name": "Nautilus",
+        "items": []
+      },
+      {
+        "name": "Jayce",
+        "items": ["Ionic Spark", "Guardian Angel"]
+      },
+      {
+        "name": "Wukong",
+        "items": ["Thief's Gloves"]
+      },
+      {
+        "name": "Mordekaiser",
+        "items": []
+      },
+      {
+        "name": "Karma",
+        "items": []
+      },
+      {
+        "name": "Cassiopeia",
+        "items": ["Seraph's Embrace", "Morellonomicon", "Quicksilver", "Trap Claw"]
+      },
+      {
+        "name": "Lulu",
+        "items": []
+      },
+      {
+        "name": "Soraka",
+        "items": []
+      }
+    ],
+    "guide": "Easy. Just be a beast."
+  },
+  {
+    "name": "Cybernetics",
+    "champions": [
+      {
+        "name": "Vayne",
+        "items": ["Infinity Edge", "Last Whisper","Giant Slayer"]
+      },
+      {
+        "name": "Ekko",
+        "items": [
+          "Thief's Gloves",
+          "Morellonomicon",
+          "Ionic Spark",
+          "Red Buff"
+        ]
+      },
+      {
+        "name": "Leona",
+        "items": []
+      },
+      {
+        "name": "Vi",
+        "items": []
+      },
+      {
+        "name": "Fiora",
+        "items": []
+      },
+      {
+        "name": "Shen",
+        "items": []
+      },
+      {
+        "name": "Caitlyn",
+        "items": []
+      },
+      {
+        "name": "Irelia",
+        "items": [
+          "Infiltrator's Talons",
+          "Infinity Edge",
+          "Guardian Angel",
+          "Last Whisper"
+        ]
+      }
+    ],
+    "guide": ""
+  },
+  {
+    "name": "Astro Snipers",
+    "champions": [
+      {
+        "name": "Caitlyn",
+        "items": []
+      },
+      {
+        "name": "Nautilus",
+        "items": []
+      },
+      {
+        "name": "Ashe",
+        "items": []
+      },
+      {
+        "name": "Karma",
+        "items": []
+      },
+      {
+        "name": "Jhin",
+        "items": [
+          "Infinity Edge",
+          "Guardian Angel",
+          "Runaan's Hurricane"
+        ]
+      },
+      {
+        "name": "Teemo",
+        "items": [
+          "Seraph's Embrace",
+          "Morellonomicon",
+          "Rabadon's Deathcap"
+        ]
+      },
+      {
+        "name": "Wukong",
+        "items": []
+      },
+      {
+        "name": "Gnar",
+        "items": [
+          "Dragon's Claw"
+        ]
+      },
+      {
+        "name": "Lulu",
+        "items": []
+      }
+    ],
+    "guide": ""
+  },
+  {
+    "name": "Star Guardian",
+    "champions": [
+      {
+        "name": "Twisted Fate",
+        "items": []
+      },
+      {
+        "name": "Zoe",
+        "items": []
+      },
+      {
+        "name": "Ahri",
+        "items": []
+      },
+      {
+        "name": "Syndra",
+        "items": []
+      },
+      {
+        "name": "Riven",
+        "items": [
+          "Guardian Angel",
+          "Rabadon's Deathcap",
+          "Quicksilver"
+        ]
+      },
+      {
+        "name": "Viktor",
+        "items": []
+      },
+      {
+        "name": "Gangplank",
+        "items": [
+          "Guardian Angel",
+          "Rabadon's Deathcap",
+          "Ionic Spark"
+        ]
+      },
+      {
+        "name": "Xerath",
+        "items": []
+      },
+      {
+        "name": "Janna",
+        "items": []
+      }
+    ],
+    "guide": "Phew. This a lot of 5 costs."
+  },
+  {
+    "name": "Protectors",
+    "champions": [
+      {
+        "name": "Xin Zhao",
+        "items": [
+          "Bramble Vest",
+          "Warmog's Armor",
+          "Shroud of Stillness"
+        ]
+      },
+      {
+        "name": "Karma",
+        "items": []
+      },
+      {
+        "name": "Neeko",
+        "items": []
+      },
+      {
+        "name": "Cassiopeia",
+        "items": []
+      },
+      {
+        "name": "Soraka",
+        "items": []
+      },
+      {
+        "name": "Urgot",
+        "items": [
+          "Rapid Firecannon",
+          "Seraph's Embrace",
+          "Spear of Shojin"
+        ]
+      },
+      {
+        "name": "Aurelion Sol",
+        "items": [
+          "Protector's Chestguard"
+        ]
+      },
+      {
+        "name": "Lulu",
+        "items": []
+      },
+      {
+        "name": "Janna",
+        "items": []
+      }
+    ],
+    "guide": "Gross"
+  },
+  {
+    "name": "Soless Protectors",
+    "champions": [
+      {
+        "name": "Xin Zhao",
+        "items": [
+          "Bramble Vest",
+          "Warmog's Armor",
+          "Shroud of Stillness"
+        ]
+      },
+      {
+        "name": "Rakan",
+        "items": [
+          "Morellonomicon"
+        ]
+      },
+      {
+        "name": "Karma",
+        "items": []
+      },
+      {
+        "name": "Neeko",
+        "items": []
+      },
+      {
+        "name": "Cassiopeia",
+        "items": []
+      },
+      {
+        "name": "Soraka",
+        "items": []
+      },
+      {
+        "name": "Urgot",
+        "items": [
+          "Rapid Firecannon",
+          "Seraph's Embrace",
+          "Spear of Shojin"
+        ]
+      },
+      {
+        "name": "Lulu",
+        "items": []
+      },
+      {
+        "name": "Janna",
+        "items": []
+      }
+    ],
+    "guide": "Less Gross"
+  },
+  {
+    "name": "",
+    "champions": [
+      {
+        "name": "",
+        "items": []
+      }
+    ],
+    "guide": ""
+  }
+]

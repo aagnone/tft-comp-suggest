@@ -1,0 +1,12 @@
+@import '~@angular/material/theming';
+
+@include mat-core();
+
+$tft-app-primary: mat-palette($mat-light-green, A200);
+$tft-app-accent:  mat-palette($mat-grey, 900);
+$tft-app-warn:    mat-palette($mat-deep-orange, 900);
+
+$tft-app-theme: mat-light-theme($tft-app-primary, $tft-app-accent, $tft-app-warn);
+
+
+@include angular-material-theme($tft-app-theme);

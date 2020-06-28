@@ -1,0 +1,466 @@
+[
+  {
+    "id": 1,
+    "name": "B.F. Sword",
+    "shortName": "Sword",
+    "image": "../../assets/images/items/01.png"
+  },
+  {
+    "id": 2,
+    "name": "Recurve Bow",
+    "shortName": "Bow",
+    "image": "../../assets/images/items/02.png"
+  },
+  {
+    "id": 3,
+    "name": "Needlessly Large Rod",
+    "shortName": "Rod",
+    "image": "../../assets/images/items/03.png"
+  },
+  {
+    "id": 4,
+    "name": "Tear of the Goddess",
+    "shortName": "Tear",
+    "image": "../../assets/images/items/04.png"
+  },
+  {
+    "id": 5,
+    "name": "Chain Vest",
+    "shortName": "Vest",
+    "image": "../../assets/images/items/05.png"
+  },
+  {
+    "id": 6,
+    "name": "Negatron Cloak",
+    "shortName": "Cloak",
+    "image": "../../assets/images/items/06.png"
+  },
+  {
+    "id": 7,
+    "name": "Giant's Belt",
+    "shortName": "Belt",
+    "image": "../../assets/images/items/07.png"
+  },
+  {
+    "id": 8,
+    "name": "Spatula",
+    "shortName": "Spat",
+    "image": "../../assets/images/items/08.png"
+  },
+  {
+    "id": 9,
+    "name": "Sparring Gloves",
+    "shortName": "Glove",
+    "image": "../../assets/images/items/09.png"
+  },
+  {
+    "id": 11,
+    "name": "Deathblade",
+    "image": "../../assets/images/items/11.png",
+    "recipe": [
+      "../../assets/images/items/01.png",
+      "../../assets/images/items/01.png"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Giant Slayer",
+    "image": "../../assets/images/items/12.png",
+    "recipe": [
+      "../../assets/images/items/01.png",
+      "../../assets/images/items/02.png"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Hextech Gunblade",
+    "image": "../../assets/images/items/13.png",
+    "recipe": [
+      "../../assets/images/items/01.png",
+      "../../assets/images/items/03.png"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Spear of Shojin",
+    "image": "../../assets/images/items/14.png",
+    "recipe": [
+      "../../assets/images/items/01.png",
+      "../../assets/images/items/04.png"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Guardian Angel",
+    "image": "../../assets/images/items/15.png",
+    "recipe": [
+      "../../assets/images/items/01.png",
+      "../../assets/images/items/05.png"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Bloodthirster",
+    "image": "../../assets/images/items/16.png",
+    "recipe": [
+      "../../assets/images/items/01.png",
+      "../../assets/images/items/06.png"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Zeke's Herald",
+    "image": "../../assets/images/items/17.png",
+    "recipe": [
+      "../../assets/images/items/01.png",
+      "../../assets/images/items/07.png"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Blade of the Ruined King",
+    "image": "../../assets/images/items/18.png",
+    "recipe": [
+      "../../assets/images/items/01.png",
+      "../../assets/images/items/08.png"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Infinity Edge",
+    "image": "../../assets/images/items/19.png",
+    "recipe": [
+      "../../assets/images/items/01.png",
+      "../../assets/images/items/09.png"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Rapid Firecannon",
+    "image": "../../assets/images/items/22.png",
+    "recipe": [
+      "../../assets/images/items/02.png",
+      "../../assets/images/items/02.png"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Guinsoo's Rageblade",
+    "shortName": "Rageblade",
+    "image": "../../assets/images/items/23.png",
+    "recipe": [
+      "../../assets/images/items/02.png",
+      "../../assets/images/items/03.png"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Statikk Shiv",
+    "shortName": "Shiv",
+    "image": "../../assets/images/items/24.png",
+    "recipe": [
+      "../../assets/images/items/02.png",
+      "../../assets/images/items/04.png"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Titan's Resolve",
+    "image": "../../assets/images/items/25.png",
+    "recipe": [
+      "../../assets/images/items/02.png",
+      "../../assets/images/items/05.png"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Runaan's Hurricane",
+    "image": "../../assets/images/items/26.png",
+    "recipe": [
+      "../../assets/images/items/02.png",
+      "../../assets/images/items/06.png"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Zz'Rot Portal",
+    "image": "../../assets/images/items/27.png",
+    "recipe": [
+      "../../assets/images/items/02.png",
+      "../../assets/images/items/07.png"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Infiltrator's Talons",
+    "image": "../../assets/images/items/28.png",
+    "recipe": [
+      "../../assets/images/items/02.png",
+      "../../assets/images/items/08.png"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Last Whisper",
+    "image": "../../assets/images/items/29.png",
+    "recipe": [
+      "../../assets/images/items/02.png",
+      "../../assets/images/items/09.png"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Rabadon's Deathcap",
+    "shortName": "Deathcap",
+    "image": "../../assets/images/items/33.png",
+    "recipe": [
+      "../../assets/images/items/03.png",
+      "../../assets/images/items/03.png"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Luden's Echo",
+    "shortName": "Luden's",
+    "image": "../../assets/images/items/34.png",
+    "recipe": [
+      "../../assets/images/items/03.png",
+      "../../assets/images/items/04.png"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Locket of the Iron Solari",
+    "shortName": "Locket",
+    "image": "../../assets/images/items/35.png",
+    "recipe": [
+      "../../assets/images/items/03.png",
+      "../../assets/images/items/05.png"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Ionic Spark",
+    "image": "../../assets/images/items/36.png",
+    "recipe": [
+      "../../assets/images/items/03.png",
+      "../../assets/images/items/06.png"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Morellonomicon",
+    "image": "../../assets/images/items/37.png",
+    "recipe": [
+      "../../assets/images/items/03.png",
+      "../../assets/images/items/07.png"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Battlecast Armor",
+    "image": "../../assets/images/items/38.png",
+    "recipe": [
+      "../../assets/images/items/03.png",
+      "../../assets/images/items/08.png"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Jeweled Gauntlet",
+    "image": "../../assets/images/items/39.png",
+    "recipe": [
+      "../../assets/images/items/03.png",
+      "../../assets/images/items/09.png"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Seraph's Embrace",
+    "image": "../../assets/images/items/44.png",
+    "recipe": [
+      "../../assets/images/items/04.png",
+      "../../assets/images/items/04.png"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Frozen Heart",
+    "image": "../../assets/images/items/45.png",
+    "recipe": [
+      "../../assets/images/items/04.png",
+      "../../assets/images/items/05.png"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Chalice of Favor",
+    "image": "../../assets/images/items/46.png",
+    "recipe": [
+      "../../assets/images/items/04.png",
+      "../../assets/images/items/06.png"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Redemption",
+    "image": "../../assets/images/items/47.png",
+    "recipe": [
+      "../../assets/images/items/04.png",
+      "../../assets/images/items/07.png"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Star Guardian's Charm",
+    "image": "../../assets/images/items/48.png",
+    "recipe": [
+      "../../assets/images/items/04.png",
+      "../../assets/images/items/08.png"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Hand Of Justice",
+    "image": "../../assets/images/items/49.png",
+    "recipe": [
+      "../../assets/images/items/04.png",
+      "../../assets/images/items/09.png"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Bramble Vest",
+    "image": "../../assets/images/items/55.png",
+    "recipe": [
+      "../../assets/images/items/05.png",
+      "../../assets/images/items/05.png"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Sword Breaker",
+    "image": "../../assets/images/items/56.png",
+    "recipe": [
+      "../../assets/images/items/05.png",
+      "../../assets/images/items/06.png"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Red Buff",
+    "image": "../../assets/images/items/57.png",
+    "recipe": [
+      "../../assets/images/items/05.png",
+      "../../assets/images/items/07.png"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Rebel Medal",
+    "image": "../../assets/images/items/58.png",
+    "recipe": [
+      "../../assets/images/items/05.png",
+      "../../assets/images/items/08.png"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Shroud of Stillness",
+    "image": "../../assets/images/items/59.png",
+    "recipe": [
+      "../../assets/images/items/05.png",
+      "../../assets/images/items/09.png"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Dragon's Claw",
+    "image": "../../assets/images/items/66.png",
+    "recipe": [
+      "../../assets/images/items/06.png",
+      "../../assets/images/items/06.png"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Zephyr",
+    "image": "../../assets/images/items/67.png",
+    "recipe": [
+      "../../assets/images/items/06.png",
+      "../../assets/images/items/07.png"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Celestial Orb",
+    "image": "../../assets/images/items/68.png",
+    "recipe": [
+      "../../assets/images/items/06.png",
+      "../../assets/images/items/08.png"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Quicksilver",
+    "image": "../../assets/images/items/69.png",
+    "recipe": [
+      "../../assets/images/items/06.png",
+      "../../assets/images/items/09.png"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Warmog's Armor",
+    "image": "../../assets/images/items/77.png",
+    "recipe": [
+      "../../assets/images/items/07.png",
+      "../../assets/images/items/07.png"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Protector's Chestguard",
+    "image": "../../assets/images/items/78.png",
+    "recipe": [
+      "../../assets/images/items/07.png",
+      "../../assets/images/items/08.png"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Trap Claw",
+    "image": "../../assets/images/items/79.png",
+    "recipe": [
+      "../../assets/images/items/07.png",
+      "../../assets/images/items/09.png"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Force of Nature",
+    "image": "../../assets/images/items/88.png",
+    "recipe": [
+      "../../assets/images/items/08.png",
+      "../../assets/images/items/08.png"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Dark Star's Heart",
+    "image": "../../assets/images/items/89.png",
+    "recipe": [
+      "../../assets/images/items/08.png",
+      "../../assets/images/items/09.png"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Thief's Gloves",
+    "image": "../../assets/images/items/99.png",
+    "recipe": [
+      "../../assets/images/items/09.png",
+      "../../assets/images/items/09.png"
+    ]
+  }
+]
