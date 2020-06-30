@@ -1,4 +1,4 @@
-@import '~@angular/material/theming';
+@import "~@angular/material/theming";
 
 $link-color: #3f51b5;
 $link-hover-color: currentColor;
@@ -6,49 +6,51 @@ $link-hover-decoration: none;
 $label-margin-bottom: 0;
 
 $tft-app-primary: mat-palette($mat-light-green, A200);
-$tft-app-accent:  mat-palette($mat-grey, 900);
-$tft-app-warn:    mat-palette($mat-deep-orange, 900);
+$tft-app-accent: mat-palette($mat-grey, 900);
+$tft-app-warn: mat-palette($mat-deep-orange, 900);
 
 $primary: mat-color($tft-app-primary);
+$primary-variant: #b0ff57;
 $accent: mat-color($tft-app-accent);
+$accent-variant: #4f5b62;
 $warn: mat-color($tft-app-warn);
 
 .bg-primary {
-    background-color: $primary;
+  background-color: $primary;
 }
 
 .bg-accent {
-    background-color: $accent;
+  background-color: $accent;
 }
 
 .bg-warn {
-    background-color: $warn;
+  background-color: $warn;
 }
 
 .bg-white {
-    background-color: #fff;
+  background-color: #fff;
 }
 
 .bg-black {
-    background-color: #000;
+  background-color: #000;
 }
 
 .text-primary {
-    color: $primary;
+  color: $primary;
 }
 
 .text-accent {
-    color: $accent;
+  color: $accent;
 }
 
 .text-warn {
-    color: $warn;
+  color: $warn;
 }
 
 .text-white {
-    color: #fff;
+  color: #fff;
 }
 
 .text-black {
-    color: #000;
+  color: #000;
 }

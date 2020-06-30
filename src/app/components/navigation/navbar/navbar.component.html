@@ -4,25 +4,37 @@
     class="example-icon"
     aria-label="Example icon-button with menu icon"
     color="accent"
+    [matMenuTriggerFor]="menu"
   >
     <mat-icon color="accent">menu</mat-icon>
   </button>
-  <span>My App</span>
+  <mat-menu #menu="matMenu">
+    <button mat-menu-item>How to Use</button>
+    <button mat-menu-item>More Stuff</button>
+    <button mat-menu-item>More Stuff</button>
+    <button mat-menu-item>More Stuff</button>
+  </mat-menu>
+  <span class="d-lg-inline-block">TFTCS</span>
+  <span class="d-none d-lg-inline-block">TFTCS</span>
   <span class="example-spacer"></span>
+  <mat-slide-toggle color="accent" (change)="updateSetting($event)">{{
+    display
+  }}</mat-slide-toggle>
   <button
     mat-icon-button
     class="example-icon favorite-icon"
-    aria-label="Example icon-button with heart icon"
+    aria-label="New Game"
     color="accent"
+    isIconButton
   >
-    <mat-icon color="accent">favorite</mat-icon>
+    <mat-icon color="accent">replay</mat-icon>
   </button>
   <button
     mat-icon-button
     class="example-icon"
-    aria-label="Example icon-button with share icon"
+    aria-label="Change Color Template"
     color="accent"
   >
-    <mat-icon color="accent">share</mat-icon>
+    <mat-icon color="accent" disabled isIconButton>brightness_medium</mat-icon>
   </button>
 </mat-toolbar>
